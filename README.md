@@ -59,7 +59,6 @@ For example, the official documentation is great.
    
  - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1775093301) [$]
    
-   
   ## Advanced ##
 
 - [Python 3 Object-Oriented Programming](https://www.amazon.com/Python-Object-oriented-Programming-Building-maintainable/dp/1784398780?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1784398780) [$]
@@ -82,7 +81,6 @@ For example, the official documentation is great.
  - [Python Pocket Reference](https://www.amazon.com/Python-Pocket-Reference-Your-OReilly/dp/1449357016?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1449357016) [$]
 
  - [Python Cookbook](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1449340377) [$]
-
 
  ## Useful resources ##
  - [Python on Stackoverflow](https://stackoverflow.com/questions/tagged/python)
