@@ -70,7 +70,7 @@ Unfortunately, most of the books listed below are not free. That said, there are
 - [Expert Python Programming](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X) [$]
 
 ## Reference ##
-
+ - [Official documentation](https://docs.python.org/3/)
  - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 
 - [Python in a Nutshell](https://www.amazon.com/Python-Nutshell-Desktop-Quick-Reference/dp/144939292X?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=144939292X) [$]
