@@ -1,6 +1,6 @@
 # python_more_awesome
 
-This is my personal list of Python resources that 
+Below are my favorite Python learning resources. 
 
 Note that my goal was to only include the resources that I had the opportunity to at least skim through and that I find valuable. 
 
