@@ -1,6 +1,12 @@
 # python_more_awesome
-This is a metalist that I compiled based on plenty of different lists and compilations I had found. 
-Note that my goal was to only include the resources that I at least skimmed through and found valuable. This is why Learn Python the Hard Way is not on the list. Even though there's now the updated version of the book,  I wouldn't recommend this book to anyone. 
+
+This is my personal list of Python resources that 
+
+Note that my goal was to only include the resources that I had the opportunity to at least skim through and that I find valuable. 
+
+This is why Learn Python the Hard Way is not on the list. Even though there's now the updated version of the book,  I wouldn't recommend this book to anyone. 
+
+
 Unfortunately, most of the books listed below are not free. That said, there are enough free ones that will get you pretty far. The official documentation is great.
 
 # Ultimate resources (both free and paid)
