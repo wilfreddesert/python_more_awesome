@@ -52,11 +52,11 @@ Unfortunately, most of the books listed below are not free. That said, there are
 
  - [Programming in Python 3](https://www.amazon.com/Programming-Python-Complete-Introduction-Language/dp/0321680561?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0321680561)
  
-  - [The Python 3 Standard Library by Example](https://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0134291050?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0134291050) [$]
+ - [The Python 3 Standard Library by Example](https://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0134291050?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0134291050) [$]
   
-   - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+ - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
    
-   - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1775093301) [$]
+ - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1775093301) [$]
    
    
   ## Advanced ##
@@ -71,6 +71,7 @@ Unfortunately, most of the books listed below are not free. That said, there are
 
 ## Reference ##
  - [Official documentation](https://docs.python.org/3/)
+ 
  - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
 
 - [Python in a Nutshell](https://www.amazon.com/Python-Nutshell-Desktop-Quick-Reference/dp/144939292X?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=144939292X) [$]
@@ -83,34 +84,32 @@ Unfortunately, most of the books listed below are not free. That said, there are
 
 
  ## Useful resources ##
- - [Stackoverflow](https://stackoverflow.com/questions/tagged/python)
-  - [Learn Python subreddit](https://www.reddit.com/r/learnpython/)
-   - [Python Weekly](https://www.pythonweekly.com)
+ - [Python on Stackoverflow](https://stackoverflow.com/questions/tagged/python)
+ - [Learn Python on Reddit](https://www.reddit.com/r/learnpython/)
+ - [Python Weekly](https://www.pythonweekly.com)
  - [Full Stack Python](http://www.fullstackpython.com/)
-  - [Py Crumbs](http://resrc.io/list/4/pycrumbs/)
-  - [Python Module of the Week](http://pymotw.com/)
- -  [Dan Bader's blog](https://dbader.org/blog/)
+ - [Py Crumbs](http://resrc.io/list/4/pycrumbs/)
+ - [Python Module of the Week](http://pymotw.com/)
+ - [Dan Bader's blog](https://dbader.org/blog/)
  - [Jeff Knupp's blog](https://jeffknupp.com/)
  - [Doug Hellmann's blog](https://doughellmann.com/blog/)
- -  [Ned Batchelder's blog](https://nedbatchelder.com/blog/)
- - http://jakevdp.github.io/
- - https://sebastianraschka.com/blog/index.html
- - http://inventwithpython.com/blog/
- - http://lucumr.pocoo.org/
+ - [Ned Batchelder's blog](https://nedbatchelder.com/blog/)
+ - [The Invent with Python Blog](http://inventwithpython.com/blog/)
+ - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/)
  - [Planet Python](http://planetpython.org/)
- - https://pythonprogramming.net/
+ - [Python Programming](https://pythonprogramming.net/)
  - [Real Python](https://realpython.com/)
  - [Import Python](http://importpython.com/newsletter/)
  - [Reddit Learn Python wiki](https://www.reddit.com/r/learnpython/wiki/index)
- - https://pybit.es/
- - https://github.com/adrianmoisey/learn-python
- - https://github.com/Junnplus/awesome-python-books
+ - [PyBites](https://pybit.es/)
+ - [Compilation of Python resources](https://github.com/adrianmoisey/learn-python)
+ - [Awesome Python books](https://github.com/Junnplus/awesome-python-books)
  - [List of Python books](http://pythonbooks.org)
  - [Awesome list of Python resources](https://awesome-python.com/)
- - http://stackabuse.com/the-best-python-books-for-all-skill-levels/
- - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python
- - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#c
- - https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python
+ - [Python Books for different skill levels](http://stackabuse.com/the-best-python-books-for-all-skill-levels/)
+ - [Huge list of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
+ - [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#c)
+ - [Even more free resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python)
 
 ## Editors and IDEs ##
 
