@@ -9,7 +9,7 @@ The essential Python list
 
  - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
- - https://www.py4e.com/book
+ - [Python for Everybody](https://www.py4e.com/book)
 
  - [Think Python](http://greenteapress.com/wp/think-python-2e/)
 
@@ -83,4 +83,13 @@ The essential Python list
  - https://pythonprogramming.net/
  - https://realpython.com/
  - http://importpython.com/newsletter/
- 
+ - https://www.reddit.com/r/learnpython/wiki/index
+ - https://pybit.es/
+ - https://github.com/adrianmoisey/learn-python
+ - https://github.com/Junnplus/awesome-python-books
+ - http://pythonbooks.org
+ - https://awesome-python.com/
+ - http://stackabuse.com/the-best-python-books-for-all-skill-levels/
+ - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python
+ - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#c
+ - https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python
