@@ -2,19 +2,20 @@
 
 Below are my favorite Python learning resources. 
 
-Note that my goal was to only include the resources that I had the opportunity to at least skim through and that I find valuable. 
+**Note** that my goal was to only include the resources that I had the opportunity to at least skim through and that I find valuable. 
 
-This is why Learn Python the Hard Way is not on the list. Even though there's now the updated version of the book,  I wouldn't recommend this book to anyone. 
+This is why _Learn Python the Hard Way_ is not on the list. Even though there's now the updated version of the book,  I wouldn't recommend it to anyone. 
 
+Unfortunately, most of the books listed below are not free. That said, there are enough free ones that will get you pretty far. 
 
-Unfortunately, most of the books listed below are not free. That said, there are enough free ones that will get you pretty far. The official documentation is great.
+For example, the official documentation is great. 
 
 # Ultimate resources (both free and paid)
 
 ## Beginner
  - https://docs.python.org/3/tutorial/index.html
 
- Still one of the best resources out there. Nevertheless, note that it's just a paced introduction that doesn't go into much detail. 
+  _The official tutorial is still one of the best resources to take your first steps in Python (but you probably need to have at least a little programming experience). Also note that this tutorial, however good, doesn't cover everything there is to know about Python. To find out more about Python, check out the resources below. 
  
  - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
