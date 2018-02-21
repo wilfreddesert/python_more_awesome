@@ -1,7 +1,7 @@
 # python_more_awesome
 The essential Python list
 
-# Beginner resources
+# Ultimate resources (both free and paid)
  - https://docs.python.org/3/tutorial/index.html
 
  Still one of the best resources out there. Nevertheless, note that it's just a paced introduction that doesn't go into much detail. 
@@ -48,3 +48,21 @@ The essential Python list
  - [The Python 3 Standard Library by Example](https://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0134291050?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0134291050)
 
  - [Python in a Nutshell](https://www.amazon.com/Python-Nutshell-Desktop-Quick-Reference/dp/144939292X?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=144939292X)
+
+ - [Dive into Python 3](http://www.diveintopython3.net/)
+
+ - [Python Module of the Week](http://pymotw.com/)
+ 
+  - [A Byte of Python](https://python.swaroopch.com/)
+
+ - [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
+ 
+  - [Full Stack Python](http://www.fullstackpython.com/)
+
+ - [Learn Python in Y Minutes](https://learnxinyminutes.com/docs/python/)
+
+ - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+
+ - [Python for You and Me](http://pymbook.readthedocs.org/en/py3/)
+
+ - 
