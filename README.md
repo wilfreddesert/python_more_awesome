@@ -83,29 +83,30 @@ Unfortunately, most of the books listed below are not free. That said, there are
 
 
  ## Useful resources ##
- - https://stackoverflow.com/questions/tagged/python
-  - https://www.reddit.com/r/learnpython/
- - http://www.fullstackpython.com/
-  - http://resrc.io/list/4/pycrumbs/
-  - http://pymotw.com/
- -  https://dbader.org/blog/
- - https://jeffknupp.com/
- - https://doughellmann.com/blog/
- -  https://nedbatchelder.com/blog/
+ - [Stackoverflow](https://stackoverflow.com/questions/tagged/python)
+  - [Learn Python subreddit](https://www.reddit.com/r/learnpython/)
+   - [Python Weekly](https://www.pythonweekly.com)
+ - [Full Stack Python](http://www.fullstackpython.com/)
+  - [Py Crumbs](http://resrc.io/list/4/pycrumbs/)
+  - [Python Module of the Week](http://pymotw.com/)
+ -  [Dan Bader's blog](https://dbader.org/blog/)
+ - [Jeff Knupp's blog](https://jeffknupp.com/)
+ - [Doug Hellmann's blog](https://doughellmann.com/blog/)
+ -  [Ned Batchelder's blog](https://nedbatchelder.com/blog/)
  - http://jakevdp.github.io/
  - https://sebastianraschka.com/blog/index.html
  - http://inventwithpython.com/blog/
  - http://lucumr.pocoo.org/
- - http://planetpython.org/
+ - [Planet Python](http://planetpython.org/)
  - https://pythonprogramming.net/
- - https://realpython.com/
- - http://importpython.com/newsletter/
- - https://www.reddit.com/r/learnpython/wiki/index
+ - [Real Python](https://realpython.com/)
+ - [Import Python](http://importpython.com/newsletter/)
+ - [Reddit Learn Python wiki](https://www.reddit.com/r/learnpython/wiki/index)
  - https://pybit.es/
  - https://github.com/adrianmoisey/learn-python
  - https://github.com/Junnplus/awesome-python-books
- - http://pythonbooks.org
- - https://awesome-python.com/
+ - [List of Python books](http://pythonbooks.org)
+ - [Awesome list of Python resources](https://awesome-python.com/)
  - http://stackabuse.com/the-best-python-books-for-all-skill-levels/
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#c
