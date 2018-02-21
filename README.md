@@ -15,7 +15,7 @@ For example, the official documentation is great.
 ## Beginner
  - https://docs.python.org/3/tutorial/index.html
 
-  _The official tutorial is still one of the best resources to take your first steps in Python (but you probably need to have at least a little programming experience). Also note that this tutorial, however good, doesn't cover everything there is to know about Python. To find out more about Python, check out the resources below.
+  The official tutorial is still one of the best resources to take your first steps in Python (but you probably need to have at least a little programming experience). Also note that this tutorial, however good, doesn't cover everything there is to know about Python. To find out more about Python, check out the resources below.
  
  - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
