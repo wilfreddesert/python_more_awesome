@@ -65,4 +65,22 @@ The essential Python list
 
  - [Python for You and Me](http://pymbook.readthedocs.org/en/py3/)
 
- - 
+ - [Beginning Python: from Novice to Professional](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
+
+ - [Expert Python Programming](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
+
+ # Useful resources ##
+
+ -  https://dbader.org/blog/
+ - https://jeffknupp.com/
+ - https://doughellmann.com/blog/
+ -  https://nedbatchelder.com/blog/
+ - http://jakevdp.github.io/
+ - https://sebastianraschka.com/blog/index.html
+ - http://inventwithpython.com/blog/
+ - http://lucumr.pocoo.org/
+ - http://planetpython.org/
+ - https://pythonprogramming.net/
+ - https://realpython.com/
+ - http://importpython.com/newsletter/
+ 
