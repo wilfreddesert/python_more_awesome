@@ -136,4 +136,6 @@ For example, the official documentation is great.
 
  - [Exercism](http://exercism.io/)
 
+ - [The Python Challenge](www.pythonchallenge.com/)
+
 
