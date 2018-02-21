@@ -10,6 +10,8 @@ This is why Learn Python the Hard Way is not on the list. Even though there's no
 Unfortunately, most of the books listed below are not free. That said, there are enough free ones that will get you pretty far. The official documentation is great.
 
 # Ultimate resources (both free and paid)
+
+## Beginner
  - https://docs.python.org/3/tutorial/index.html
 
  Still one of the best resources out there. Nevertheless, note that it's just a paced introduction that doesn't go into much detail. 
