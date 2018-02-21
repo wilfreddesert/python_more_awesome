@@ -81,7 +81,10 @@ Unfortunately, most of the books listed below are not free. That said, there are
 
 
  ## Useful resources ##
+ - https://stackoverflow.com/questions/tagged/python
+  - https://www.reddit.com/r/learnpython/
  - http://www.fullstackpython.com/
+  - http://resrc.io/list/4/pycrumbs/
   - http://pymotw.com/
  -  https://dbader.org/blog/
  - https://jeffknupp.com/
@@ -105,3 +108,29 @@ Unfortunately, most of the books listed below are not free. That said, there are
  - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python
  - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#c
  - https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python
+
+## Editors and IDEs ##
+
+ - [PyCharm](https://www.jetbrains.com/pycharm/)
+
+ - [VS Code](https://code.visualstudio.com/docs/languages/python)
+
+ - [Atom](https://atom.io/)
+
+ - [Sublime Text](https://www.sublimetext.com/3)
+
+## Exercising ##
+
+ - [Codewars](https://www.codewars.com/)
+
+ - [CheckIO](https://py.checkio.org/)
+
+ - [Project Euler](https://projecteuler.net/)
+
+ - [Hacker Rank](https://hackerrank.com/)
+
+ - [Coding Bat](http://codingbat.com/python)
+
+ - [Exercism](http://exercism.io/)
+
+
