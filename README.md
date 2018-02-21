@@ -7,13 +7,13 @@ The essential Python list
  Still one of the best resources out there. Nevertheless, note that it's just a paced introduction that doesn't go into much detail. 
  
 
- - https://automatetheboringstuff.com/
+ - [Automate the Boring Stuff](https://automatetheboringstuff.com/)
 
  - https://www.py4e.com/book
 
- - http://greenteapress.com/wp/think-python-2e/
+ - [Think Python](http://greenteapress.com/wp/think-python-2e/)
 
- - http://docs.python-guide.org/en/latest/
+ - [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 
  - [Python Crash Course](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1593276036)
  
