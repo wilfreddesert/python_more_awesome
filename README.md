@@ -136,4 +136,16 @@ For example, the official documentation is great.
 
  - [The Python Challenge](www.pythonchallenge.com/)
 
+## Understanding decorators ##
+
+ - https://jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/
+ - https://www.blog.pythonlibrary.org/2017/07/18/python-all-about-decorators/
+ - https://realpython.com/blog/python/primer-on-python-decorators/
+ - https://www.thecodeship.com/patterns/guide-to-python-function-decorators/
+ - https://pythontips.com/2013/12/05/python-decorators-finally-demystified/
+ - http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
+ - https://dbader.org/blog/python-decorators
+ - https://pybit.es/decorators-by-example.html
+ - https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators
+ 
 
