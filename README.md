@@ -147,5 +147,6 @@ For example, the official documentation is great.
  - https://dbader.org/blog/python-decorators
  - https://pybit.es/decorators-by-example.html
  - https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators
+ - https://www.codeschool.com/blog/2016/05/12/a-guide-to-python-decorators/
  
 
