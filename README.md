@@ -109,6 +109,7 @@ For example, the official documentation is great.
  - [Huge list of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
  - [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#c)
  - [Even more free resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python)
+ - [Python Curated Resource](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
 
 ## Editors and IDEs ##
 
