@@ -101,6 +101,9 @@ For example, the official documentation is great.
  - [Import Python](http://importpython.com/newsletter/)
  - [Reddit Learn Python wiki](https://www.reddit.com/r/learnpython/wiki/index)
  - [PyBites](https://pybit.es/)
+
+## Useful lists ##
+
  - [Compilation of Python resources](https://github.com/adrianmoisey/learn-python)
  - [Awesome Python books](https://github.com/Junnplus/awesome-python-books)
  - [List of Python books](http://pythonbooks.org)
@@ -109,7 +112,7 @@ For example, the official documentation is great.
  - [Huge list of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
  - [A gallery of interesting Jupyter notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#c)
  - [Even more free resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#python)
- - [Python Curated Resource](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
+ - [Python Curated Resources](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
 
 ## Editors and IDEs ##
 
