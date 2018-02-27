@@ -93,7 +93,6 @@ For example, the official documentation is great.
  - [Jeff Knupp's blog](https://jeffknupp.com/)
  - [Doug Hellmann's blog](https://doughellmann.com/blog/)
  - [Ned Batchelder's blog](https://nedbatchelder.com/blog/)
- - [The Invent with Python Blog](http://inventwithpython.com/blog/)
  - [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/)
  - [Planet Python](http://planetpython.org/)
  - [Python Programming](https://pythonprogramming.net/)
