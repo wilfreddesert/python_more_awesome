@@ -81,6 +81,22 @@ For example, the official documentation is great.
  - [Python Pocket Reference](https://www.amazon.com/Python-Pocket-Reference-Your-OReilly/dp/1449357016?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1449357016) [$]
 
  - [Python Cookbook](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1449340377) [$]
+ 
+ ## Django ##
+
+ - [MDN Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+ - [Official Django Tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
+ - [Django Girls](https://tutorial.djangogirls.org/en/)
+ - [The Django Book](https://djangobook.com/)
+ - [Tango with Django](https://leanpub.com/tangowithdjango19/) [$]
+ - [Two Scoops of Django](https://www.amazon.co.uk/Two-Scoops-Django-1-11-Practices/dp/0692915729) [$]
+ - [Test-Driven Development with Python](https://www.amazon.co.uk/Test-Driven-Development-Python-Harry-Percival/dp/1491958707/ref=pd_lpo_sbs_14_t_1/259-6982167-3257931?_encoding=UTF8&psc=1&refRID=AX28V0MA1S78RYJ8Z370) [$]
+ 
+ ## Flask ##
+ 
+ - [Official Flask Tutorial](http://flask.pocoo.org/docs/tutorial/#tutorial)
+ - [Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+ - [Flask Book](https://flaskbook.com/) [$]
 
  ## Useful resources ##
  - [Python on Stackoverflow](https://stackoverflow.com/questions/tagged/python)
