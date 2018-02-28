@@ -131,6 +131,7 @@ For example, the official documentation is great.
  - [Python Curated Resources](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
  - [Best Python Resources for Beginners and Professionals](https://pythontips.com/2013/09/01/best-python-resources/)
  - [Python Books](https://pythonbooks.revolunet.com/)
+ - [Python Goodies](https://python.zeef.com/alan.richmond)
 
 ## Editors and IDEs ##
 
