@@ -116,7 +116,8 @@ For example, the official documentation is great.
  - [Import Python](http://importpython.com/newsletter/)
  - [Reddit Learn Python wiki](https://www.reddit.com/r/learnpython/wiki/index)
  - [PyBites](https://pybit.es/)
-  - [Invent with Python](http://inventwithpython.com/)
+ - [Invent with Python](http://inventwithpython.com/)
+ - [Python Gotchas](https://github.com/satwikkansal/wtfpython#-strings-can-be-tricky-sometimes-)
 
 ## Useful lists ##
 
