@@ -98,7 +98,7 @@ For example, the official documentation is great.
  - [Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
  - [Flask Book](https://flaskbook.com/) [$]
 
-## Data science ##
+## Data Science ##
 
  - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
  - [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
