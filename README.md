@@ -98,6 +98,25 @@ For example, the official documentation is great.
  - [Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
  - [Flask Book](https://flaskbook.com/) [$]
 
+## Data science ##
+
+ - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+ - [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
+ - [Awesome Learn Data Science](https://github.com/siboehm/awesome-learn-datascience)
+ - [Data Science ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) 
+ - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+ - [A Compendum of Machine Learning Resources](http://www.johnwittenauer.net/a-compendium-of-machine-learning-resources/)
+ - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+ - [Data Science Learning Resources](https://github.com/5agado/data-science-learning/blob/master/resources.md)
+ - [Data Science Resources](https://elitedatascience.com/data-science-resources)
+ - [Free Data Science Books](https://github.com/chaconnewu/free-data-science-books/blob/master/README.md)
+ - [Top Data Science Resources](http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/)
+ - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+ - [Transitioning to a Data Science Career](https://blog.modeanalytics.com/data-science-career/)
+ - [Curated List of Data Science Resources](https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A426623)
+ - [Free Data Science Books #2](http://www.learndatasci.com/free-data-science-books)
+
+
  ## Useful resources ##
  - [Python on Stackoverflow](https://stackoverflow.com/questions/tagged/python)
  - [Learn Python on Reddit](https://www.reddit.com/r/learnpython/)
@@ -139,22 +158,6 @@ For example, the official documentation is great.
  - [Python Reference Resources](https://github.com/rasbt/python_reference)
  - [Pythonidae](https://github.com/svaksha/pythonidae)
 
-## Data science ##
-
- - [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
- - [Awesome Learn Data Science](https://github.com/siboehm/awesome-learn-datascience)
- - [Data Science ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) 
- - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
- - [A Compendum of Machine Learning Resources](http://www.johnwittenauer.net/a-compendium-of-machine-learning-resources/)
- - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
- - [Data Science Learning Resources](https://github.com/5agado/data-science-learning/blob/master/resources.md)
- - [Data Science Resources](https://elitedatascience.com/data-science-resources)
- - [Free Data Science Books](https://github.com/chaconnewu/free-data-science-books/blob/master/README.md)
- - [Top Data Science Resources](http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/)
- - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
- - [Transitioning to a Data Science Career](https://blog.modeanalytics.com/data-science-career/)
- - [Curated List of Data Science Resources](https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A426623)
- - [Free Data Science Books #2](http://www.learndatasci.com/free-data-science-books)
 
 ## Editors and IDEs ##
 
