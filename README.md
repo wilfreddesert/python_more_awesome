@@ -157,6 +157,7 @@ For example, the official documentation is great.
  - [Python Bookmarks](https://github.com/scraggo/bookmarks-programming/tree/master/python-bookmarks)
  - [Python Reference Resources](https://github.com/rasbt/python_reference)
  - [Pythonidae](https://github.com/svaksha/pythonidae)
+ - [p1xt Career Guides](https://github.com/P1xt/p1xt-guides) ## Not just for Python
 
 
 ## Editors and IDEs ##
