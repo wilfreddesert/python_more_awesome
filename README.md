@@ -116,6 +116,7 @@ For example, the official documentation is great.
  - [Curated List of Data Science Resources](https://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A426623)
  - [Free Data Science Books #2](http://www.learndatasci.com/free-data-science-books)
  - [Top Data Science Resources](http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/)
+ - [Machine Learning Resources](https://github.com/Shujian2015/FreeML/blob/master/README.md)
 
 
  ## Useful resources ##
