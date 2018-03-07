@@ -118,6 +118,7 @@ For example, the official documentation is great.
  - [Top Data Science Resources](http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/)
  - [Machine Learning Resources](https://github.com/Shujian2015/FreeML/blob/master/README.md)
  - [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+ - [Lots of links on DS and ML](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) [RU]
 
 
  ## Useful resources ##
