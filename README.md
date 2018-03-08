@@ -119,6 +119,7 @@ For example, the official documentation is great.
  - [Machine Learning Resources](https://github.com/Shujian2015/FreeML/blob/master/README.md)
  - [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
  - [Lots of links on DS and ML](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) [RU]
+ - [Learn Data Science](https://spark-in.me/post/learn-data-science)  [RU]
 
 
  ## Useful resources ##
