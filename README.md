@@ -122,6 +122,7 @@ For example, the official documentation is great.
  - [Learn Data Science](https://spark-in.me/post/learn-data-science)  [RU]
  - [Deep Learning Resources](https://github.com/re9ulus/neural-networks-materials)
  - [Deep Learning Resources # 2](https://habrahabr.ru/company/neurodatalab/blog/336218/)
+ - [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
 
 
  ## Useful resources ##
