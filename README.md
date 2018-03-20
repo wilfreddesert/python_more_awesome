@@ -125,6 +125,7 @@ For example, the official documentation is great.
  - [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
  - [Deep Learning Resources #3](https://github.com/ChristosChristofidis/awesome-deep-learning#free-online-books)
  - [Awesome Machine Learning Courses](https://github.com/RatulGhosh/awesome-machine-learning)
+ - [Machine Learning Tutorials](https://github.com/wilfreddesert/Machine-Learning-Tutorials)
 
 
  ## Useful resources ##
