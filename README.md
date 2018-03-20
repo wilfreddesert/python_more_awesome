@@ -123,6 +123,7 @@ For example, the official documentation is great.
  - [Deep Learning Resources](https://github.com/re9ulus/neural-networks-materials)
  - [Deep Learning Resources # 2](https://habrahabr.ru/company/neurodatalab/blog/336218/)
  - [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+ - [Deep Learning Resources #3](https://github.com/ChristosChristofidis/awesome-deep-learning#free-online-books)
 
 
  ## Useful resources ##
