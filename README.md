@@ -127,6 +127,25 @@ For example, the official documentation is great.
  - [Awesome Machine Learning Courses](https://github.com/RatulGhosh/awesome-machine-learning)
  - [Machine Learning Tutorials](https://github.com/wilfreddesert/Machine-Learning-Tutorials)
 
+## Mathematics ##
+
+ - [Free Math Resources](http://freemath.wikia.com/wiki/Free_Math_Sources)
+ - [Math Learning](http://chrisberkhout.com/blog/maths-learning/)
+ - [Open Math Texts](http://linear.ups.edu/opentexts.html)
+ - [College Open Textbooks](http://www.collegeopentextbooks.org/textbook-listings/textbooks-by-subject/mathematics)
+ - [Free Mathematics Books](http://www.e-booksdirectory.com/mathematics.php)
+ - [Free Math Ebooks](https://www.techsupportalert.com/free-books-math)
+ - [Free Tech Books](http://www.freetechbooks.com/linear-algebra-f78.html)
+ - [Math Books for Data Science](https://github.com/datasciencemasters/go#math)
+ - [Free Online Mathematics Textbooks](http://www.freetextbooklist.com/mathematics/)
+ - [List of approved math textbooks](https://aimath.org/textbooks/approved-textbooks/)
+ - [Free and Open Source Textbooks](http://danaernst.com/resources/free-and-open-source-textbooks/)
+ - [Free Mathematics Books](http://www.freebookcentre.net/SpecialCat/Free-Mathematics-Books-Download.html)
+ - [Free Math Textbooks](http://www.openculture.com/free-math-textbooks)
+ - [Open Textbooks](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7)
+ - [Online Math Books](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+ - [Ordered List of Free Math Books](https://www.reddit.com/r/learnmath/comments/5nk3ze/could_somebody_please_give_me_an_ordered_list_of/)
+
 
  ## Useful resources ##
  - [Python on Stackoverflow](https://stackoverflow.com/questions/tagged/python)
