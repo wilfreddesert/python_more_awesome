@@ -58,6 +58,8 @@ For example, the official documentation is great.
  - [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
    
  - [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301?SubscriptionId=AKIAJBKIFSMHEN2PCMZQ&tag=pythonbooks01-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1775093301) [$]
+ - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
+   
    
   ## Advanced ##
 
