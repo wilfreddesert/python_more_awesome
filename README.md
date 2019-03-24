@@ -167,6 +167,7 @@ For example, the official documentation is great.
  - [PyBites](https://pybit.es/)
  - [Invent with Python](http://inventwithpython.com/)
  - [Python Gotchas](https://github.com/satwikkansal/wtfpython#-strings-can-be-tricky-sometimes-)
+ - [Useful blogs](https://www.reddit.com/r/Python/comments/8aigrf/what_are_some_amazing_blogs_related_to_python/)
 
 ## Useful lists ##
 
